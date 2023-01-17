@@ -1,2 +1,3 @@
 # FMR
-Matlab code for the paper "Representing noisy image without denoising"
+In preparation, will appear soon.  
+Matlab code for the paper "Representing noisy image without denoising".  
