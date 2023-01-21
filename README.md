@@ -1,4 +1,4 @@
-# FMR
+# Fractional-order Moments in Radon space
 This repository is an implementation of the method in  
 "Representing noisy image without denoising", *under review*, 2023.  
 Code implemented by Shuren Qi ( i@srqi.email ). All rights reserved.  
